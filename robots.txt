@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://little-rock.lemurianstudios.com/sitemap.xml
